@@ -8,7 +8,7 @@
 - Teaching and inspiring others
 
 
-### 🔭 I’m currently participating on #100DaysOfCode challenge on Twitter
+### 🔭 I have completed round 1 of #100DaysOfCode challenge on Twitter
 
 ### 🌱 I’m currently self-learning CSS and JavaScript
 
@@ -19,7 +19,8 @@
 - ✨ https://github.com/minadndai (GitHub - where I post codes of my personal projects/challenges)
 
 ### ⚡ Fun fact about me: 
-- I have started livestreaming recently on Trovo (username: codeanddream) to push myself out of my comfort zone, and also expressing my interest of playing PUBG mobile and hopefully inspiring other people to learn coding. 
+- I have started livestreaming recently on Trovo (username: codeanddream) to push myself out of my comfort zone, and also expressing my interest of gaming and hopefully inspiring other people to learn coding. 
+- I have recently started learning WordPress and Youtube, and hopefully I can start to create contents to help new learners soon!
 - I am a mom of one boy and this is so far my favourite role in life!
 - I am a travel-holic and I have been to 20 countries so far. 
 - My other interests include reading, Art and Photography, and meeting new people from all around the world!

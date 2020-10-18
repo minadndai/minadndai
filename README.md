@@ -17,6 +17,7 @@
 - ✨ https://codepen.io/codeanddream (Codepen - where I post my CSSArt/Animation/snippets creations)
 - ✨ https://www.instagram.com/codeanddream/ (Instagram - where I post demo of my personal practice mini projects)
 - ✨ https://github.com/minadndai (GitHub - where I post codes of my personal projects/challenges)
+- ✨ https://trovo.live/codeanddream (Trovo - where I stream live multiplayer games)
 
 ### ⚡ Fun fact about me: 
 - I have started livestreaming (mainly about CSS Art) on Trovo (username: codeanddream) to push myself out of my comfort zone, and also expressing my interest of gaming and hopefully inspiring other people to learn coding. 
